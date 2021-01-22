@@ -58,11 +58,11 @@
 Project Title
 
 ## Screenshots
-https://github.com/mygithub23/Github-README.me-Builder/blob/main/img/21.01.2021_17.06.56_REC.mp4
-https://github.com/mygithub23/Github-README.me-Builder/blob/main/img/Capture1.JPG
-https://github.com/mygithub23/Github-README.me-Builder/blob/main/img/Capture2.JPG
-https://github.com/mygithub23/Github-README.me-Builder/blob/main/img/Capture3.JPG
-https://github.com/mygithub23/Github-README.me-Builder/blob/main/img/Capture4.JPG
+<img src="https://github.com/mygithub23/Github-README.me-Builder/blob/main/img/GithubReadmeGen.gif">
+<img src="https://github.com/mygithub23/Github-README.me-Builder/blob/main/img/Capture1.JPG">
+<img src="https://gthub.com/mygithub23/Github-README.me-Builder/blob/main/img/Capture2.JPG">
+<img src="https://github.com/mygithub23/Github-README.me-Builder/blob/main/img/Capture3.JPG">
+<img src="https://github.com/mygithub23/Github-README.me-Builder/blob/main/img/Capture4.JPG">
 
 ### ✨Demo
 
