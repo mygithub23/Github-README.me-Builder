@@ -58,14 +58,17 @@
 Project Title
 
 ## Screenshots
-www.myimge.com, myimage2.com
+https://github.com/mygithub23/Github-README.me-Builder/blob/main/img/21.01.2021_17.06.56_REC.mp4
+https://github.com/mygithub23/Github-README.me-Builder/blob/main/img/Capture1.JPG
+https://github.com/mygithub23/Github-README.me-Builder/blob/main/img/Capture2.JPG
+https://github.com/mygithub23/Github-README.me-Builder/blob/main/img/Capture3.JPG
+https://github.com/mygithub23/Github-README.me-Builder/blob/main/img/Capture4.JPG
 
 ### ✨Demo
 
-Project Link: [https://github.com/MyUserName/MyRepoName](https://github.com/mygithub/MyRepoName)
+Project Link: [https://github.com/mygithub/mygithub23/Github-README.me-Builder](https://github.com/mygithub/MyRepoName)
 https://github.com/mygithub/MyRepoName<br>
 
-https://github.com/mygithub/mygithub23/Github-README.me-Builder/main/img/21.01.2021_17.06.56_REC.mp4
 
 
 <!-- ABOUT THE PROJECT -->
